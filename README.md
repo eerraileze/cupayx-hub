@@ -1,2 +1,14 @@
 # cupayx-hub
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
